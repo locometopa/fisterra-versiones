@@ -1,6 +1,6 @@
 {
-  "version": "0.7.0",
-  "url": "https://raw.githubusercontent.com/locometopa/fisterra-versiones/main/0.7/Fisterra.exe",
-  "sha256": "a87e9f05b94e3c0908594249b4b5357a7d719be2f796c900db85e274125519b6",
-  "notes": "Fibra: extraccion SIP por API verificada en el F@st 5366S"
+  "version": "0.8.0",
+  "url": "https://raw.githubusercontent.com/locometopa/fisterra-versiones/main/0.8/Fisterra.exe",
+  "sha256": "45018f67fb19acc6a7cc62a9abb73102f3d7f0c58dd854ebf7c43b2af9a4f606",
+  "notes": "Fibra: tambien extrae VLAN y usuario PPPoE para router neutro"
 }
