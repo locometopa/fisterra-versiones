@@ -1,6 +1,6 @@
 {
-  "version": "0.4.0",
-  "url": "https://raw.githubusercontent.com/locometopa/fisterra-versiones/main/0.4/Fisterra.exe",
-  "sha256": "b8b009925aa4be9afbb2dfd138f97f6fae9a5bb374af475751031075c43f5bf9",
-  "notes": "Actualización automática"
+  "version": "0.5.0",
+  "url": "https://raw.githubusercontent.com/locometopa/fisterra-versiones/main/0.5/Fisterra.exe",
+  "sha256": "4e01468aa4407b62110f9f7f0a3f6fe893b0908e927260dbde74b2fba78a962b",
+  "notes": "Nueva herramienta de fibra: extrae clave GPON y SIP"
 }
