@@ -2,10 +2,10 @@
 
 Descargas de **Fisterra**, centro de control de red para el router Sagemcom F@st 5366SM y NAS Synology.
 
-Descarga la última versión en [Releases](https://github.com/locometopa/fisterra-versiones/releases).
+**Descargar la última versión:** [Fisterra 0.3](https://github.com/locometopa/fisterra-versiones/raw/main/0.3/Fisterra.exe)
 
 | Versión | Cambios |
 |---|---|
-| 0.3 | Nuevo nombre (antes Abre-Puertos) e icono de faro. Estilo empresarial, página centrada para monitores ultrawide, acceso remoto separado router/NAS. |
+| [0.3](0.3/Fisterra.exe) | Nuevo nombre (antes Abre-Puertos) e icono de faro. Estilo empresarial, página centrada para monitores ultrawide, acceso remoto separado router/NAS. |
 
 **Uso:** ejecuta `Fisterra.exe` y se abre en el navegador (`http://127.0.0.1:8777`). La primera vez Windows puede avisar con SmartScreen: *Más información → Ejecutar de todos modos*.
