@@ -1,6 +1,6 @@
 {
-  "version": "0.8.0",
-  "url": "https://raw.githubusercontent.com/locometopa/fisterra-versiones/main/0.8/Fisterra.exe",
-  "sha256": "45018f67fb19acc6a7cc62a9abb73102f3d7f0c58dd854ebf7c43b2af9a4f606",
-  "notes": "Fibra: tambien extrae VLAN y usuario PPPoE para router neutro"
+  "version": "0.9.0",
+  "url": "https://raw.githubusercontent.com/locometopa/fisterra-versiones/main/0.9/Fisterra.exe",
+  "sha256": "bd7cea912356a096e9bc4a7f67b32b95436dce9166f91e5189af06d4917a2195",
+  "notes": "Ventana propia compacta y centrada (modo app)"
 }
