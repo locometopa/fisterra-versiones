@@ -1,6 +1,6 @@
 {
-  "version": "0.10.0",
-  "url": "https://github.com/locometopa/fisterra-versiones/raw/main/0.10/Fisterra.exe",
-  "sha256": "e91b3f8b0592a307662f39f11d3dfd5bd81383060387d38eb60887ea24f96e2d",
-  "notes": "Ventana de escritorio sin consola (solo avisa si hay un fallo). Arreglado el atasco de actualizaciones. Apertura de ventana más robusta (Edge/Chrome). Botón Cerrar Fisterra."
+  "version": "0.11.0",
+  "url": "https://github.com/locometopa/fisterra-versiones/raw/main/0.11/Fisterra.exe",
+  "sha256": "9a4e1f513bac7e91d03e7459261dae01f296ea7a0ef8f5a490c3b12c2ff93fac",
+  "notes": "Nuevo tema oscuro (estilo modem.tools): fondo azul marino, acentos turquesa, tarjetas redondeadas."
 }
