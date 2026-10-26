@@ -1,6 +1,6 @@
 {
-  "version": "0.9.0",
-  "url": "https://raw.githubusercontent.com/locometopa/fisterra-versiones/main/0.9/Fisterra.exe",
-  "sha256": "bd7cea912356a096e9bc4a7f67b32b95436dce9166f91e5189af06d4917a2195",
-  "notes": "Ventana propia compacta y centrada (modo app)"
+  "version": "0.10.0",
+  "url": "https://github.com/locometopa/fisterra-versiones/raw/main/0.10/Fisterra.exe",
+  "sha256": "e91b3f8b0592a307662f39f11d3dfd5bd81383060387d38eb60887ea24f96e2d",
+  "notes": "Ventana de escritorio sin consola (solo avisa si hay un fallo). Arreglado el atasco de actualizaciones. Apertura de ventana más robusta (Edge/Chrome). Botón Cerrar Fisterra."
 }
