@@ -1,6 +1,6 @@
 {
-  "version": "0.14.0",
-  "url": "https://github.com/locometopa/fisterra-versiones/raw/main/0.14/Fisterra.exe",
-  "sha256": "916b386c8c6fd363318dc164dd39f771bad2960a797a6dcfce3649e4e3928165",
-  "notes": "Nuevo aspecto estilo Driver Booster: negro con acento rojo, botones redondeados y cabecera de estado en Inicio."
+  "version": "0.15.0",
+  "url": "https://github.com/locometopa/fisterra-versiones/raw/main/0.15/Fisterra.exe",
+  "sha256": "37f0b2215c96b3ef053a646f7a7ab46d16499f209509a73b71f26c9e436db38d",
+  "notes": "Reinicio de la actualizacion arreglado de verdad: renombra el .exe en marcha y relanza reintentando el puerto; la ventana se recarga sola."
 }
