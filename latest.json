@@ -1,6 +1,6 @@
 {
-  "version": "0.12.0",
-  "url": "https://github.com/locometopa/fisterra-versiones/raw/main/0.12/Fisterra.exe",
-  "sha256": "7db7222dc0424e395d2333ba83ef6a5fb8bd59f5666d595434e8f85a62e79b71",
-  "notes": "Actualizacion sin ventana de consola ni bucles (lanzador oculto). Cortafuegos anti-bucle si una actualizacion falla."
+  "version": "0.13.0",
+  "url": "https://github.com/locometopa/fisterra-versiones/raw/main/0.13/Fisterra.exe",
+  "sha256": "44afbc2b819c4db688cf140c98f8461474b3d0d13a6a3fe9ba6c4ccbbd4dfe76",
+  "notes": "Nuevo: Mapa de red (dispositivos conectados, fabricante, aviso de equipo nuevo, reservar IP) y Chequeo de seguridad (contrasena, UPnP, puertos sensibles, CGNAT)."
 }

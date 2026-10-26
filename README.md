@@ -2,12 +2,13 @@
 
 Descargas de **Fisterra**, centro de control de red para el router Sagemcom F@st 5366SM y NAS Synology.
 
-**Descargar la última versión:** [Fisterra 0.12](https://github.com/locometopa/fisterra-versiones/raw/main/0.12/Fisterra.exe)
+**Descargar la última versión:** [Fisterra 0.13](https://github.com/locometopa/fisterra-versiones/raw/main/0.13/Fisterra.exe)
 
 Desde la 0.4, Fisterra se actualiza solo al abrirse (consulta `latest.json`). Se puede desactivar en *Ajustes*.
 
 | Versión | Cambios |
 |---|---|
+| [0.13](0.13/Fisterra.exe) | **Mapa de red**: lista los dispositivos conectados (nombre, IP, MAC, fabricante), avisa de equipos nuevos y reserva IP de un clic. **Chequeo de seguridad**: revisa contraseña, UPnP, puertos sensibles expuestos y CGNAT. |
 | [0.12](0.12/Fisterra.exe) | Actualización sin ventana de consola ni bucles: lanzador oculto (VBScript) que espera a que el .exe se libere, lo sustituye y relanza. Cortafuegos anti-bucle si una actualización falla. |
 | [0.11](0.11/Fisterra.exe) | Nuevo tema oscuro (estilo modem.tools): fondo azul marino, acentos turquesa y tarjetas redondeadas. |
 | [0.10](0.10/Fisterra.exe) | Sin ventana de consola: arranca directo en su ventana de escritorio (solo avisa si hay un fallo). Arreglado el atasco de actualizaciones y apertura de ventana más robusta. Botón «Cerrar Fisterra». |
