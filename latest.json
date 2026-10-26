@@ -1,6 +1,6 @@
 {
-  "version": "0.13.0",
-  "url": "https://github.com/locometopa/fisterra-versiones/raw/main/0.13/Fisterra.exe",
-  "sha256": "44afbc2b819c4db688cf140c98f8461474b3d0d13a6a3fe9ba6c4ccbbd4dfe76",
-  "notes": "Nuevo: Mapa de red (dispositivos conectados, fabricante, aviso de equipo nuevo, reservar IP) y Chequeo de seguridad (contrasena, UPnP, puertos sensibles, CGNAT)."
+  "version": "0.14.0",
+  "url": "https://github.com/locometopa/fisterra-versiones/raw/main/0.14/Fisterra.exe",
+  "sha256": "916b386c8c6fd363318dc164dd39f771bad2960a797a6dcfce3649e4e3928165",
+  "notes": "Nuevo aspecto estilo Driver Booster: negro con acento rojo, botones redondeados y cabecera de estado en Inicio."
 }
