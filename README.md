@@ -2,12 +2,13 @@
 
 Descargas de **Fisterra**, centro de control de red para el router Sagemcom F@st 5366SM y NAS Synology.
 
-**Descargar la última versión:** [Fisterra 0.22](https://github.com/locometopa/fisterra-versiones/raw/main/0.22/Fisterra.exe)
+**Descargar la última versión:** [Fisterra 0.23](https://github.com/locometopa/fisterra-versiones/raw/main/0.23/Fisterra.exe)
 
 Desde la 0.4, Fisterra se actualiza solo al abrirse (consulta `latest.json`). Se puede desactivar en *Ajustes*.
 
 | Versión | Cambios |
 |---|---|
+| [0.23](0.23/Fisterra.exe) | NAS: almacenamiento y salud de discos (uso, temperatura, SMART). Router: nueva sección **WiFi** (ver SSID/contraseña y generar QR de invitados) e info del router en Mantenimiento. |
 | [0.22](0.22/Fisterra.exe) | Quitado el aviso de sesión/sync de Edge. Iconos del menú planos y monocromos. Nueva función **Wake-on-LAN** (encender equipos) y «Abrir web» de cada dispositivo. |
 | [0.21](0.21/Fisterra.exe) | Separaciones corregidas: las rejillas de tarjetas dejan hueco con el bloque siguiente (Fibra e Inicio ya no se pegan). |
 | [0.20](0.20/Fisterra.exe) | Cajas que ya no se pisan: las rejillas se reorganizan solas según el ancho (útil con el escalado de Windows). Menú reagrupado (Seguridad en RED, nuevo grupo Conectividad). |
