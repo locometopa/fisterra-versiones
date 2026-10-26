@@ -1,6 +1,6 @@
 {
-  "version": "0.18.0",
-  "url": "https://github.com/locometopa/fisterra-versiones/raw/main/0.18/Fisterra.exe",
-  "sha256": "c6cd1ee01aa946dc58513cd73752a5a9ab0f2fe1650c30abc9498332ee0e86b9",
-  "notes": "Menu lateral de texto como antes y barra de desplazamiento oscura acorde al tema."
+  "version": "0.19.0",
+  "url": "https://github.com/locometopa/fisterra-versiones/raw/main/0.19/Fisterra.exe",
+  "sha256": "fc9dc06ef0665fd3b9f95a0b605331d6d68903f6cff65bd80bc94a6887ea05d7",
+  "notes": "Nuevo mecanismo de reinicio tras actualizar: relanza la version nueva a traves de explorer.exe (shell de Windows), asi el proceso nuevo no muere con el viejo. Arranque tolerante al solape de puerto."
 }
