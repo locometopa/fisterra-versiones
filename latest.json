@@ -1,6 +1,6 @@
 {
-  "version": "0.21.0",
-  "url": "https://github.com/locometopa/fisterra-versiones/raw/main/0.21/Fisterra.exe",
-  "sha256": "efaeea47bd741da479ccb146dee3a37566e28b82a2fc6b6720970d99fbe63035",
-  "notes": "Separaciones corregidas: las rejillas de tarjetas ahora dejan hueco con el bloque siguiente (Fibra e Inicio ya no se pegan)."
+  "version": "0.22.0",
+  "url": "https://github.com/locometopa/fisterra-versiones/raw/main/0.22/Fisterra.exe",
+  "sha256": "10b373e6b99b2c21c481c6866663d19b00f437b373d7233e6e1d5d07962663a0",
+  "notes": "Quitado el aviso de inicio de sesion/sync de Edge. Iconos del menu planos y monocromos. Nueva funcion Wake-on-LAN (encender equipos) y acceso a la web de cada dispositivo."
 }
