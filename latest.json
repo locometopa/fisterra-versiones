@@ -1,6 +1,6 @@
 {
-  "version": "0.17.0",
-  "url": "https://github.com/locometopa/fisterra-versiones/raw/main/0.17/Fisterra.exe",
-  "sha256": "969c3be28512ada2dc65ca4407993d4339d2ce8dbe1254c5fae305fbfce5d9fc",
-  "notes": "Reinicio tras actualizar mas fiable: la version nueva abre su propia ventana y la vieja se cierra sola. Aviso claro si algo falla."
+  "version": "0.18.0",
+  "url": "https://github.com/locometopa/fisterra-versiones/raw/main/0.18/Fisterra.exe",
+  "sha256": "c6cd1ee01aa946dc58513cd73752a5a9ab0f2fe1650c30abc9498332ee0e86b9",
+  "notes": "Menu lateral de texto como antes y barra de desplazamiento oscura acorde al tema."
 }
