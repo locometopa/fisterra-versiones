@@ -1,6 +1,6 @@
 {
-  "version": "0.15.0",
-  "url": "https://github.com/locometopa/fisterra-versiones/raw/main/0.15/Fisterra.exe",
-  "sha256": "37f0b2215c96b3ef053a646f7a7ab46d16499f209509a73b71f26c9e436db38d",
-  "notes": "Reinicio de la actualizacion arreglado de verdad: renombra el .exe en marcha y relanza reintentando el puerto; la ventana se recarga sola."
+  "version": "0.16.0",
+  "url": "https://github.com/locometopa/fisterra-versiones/raw/main/0.16/Fisterra.exe",
+  "sha256": "481a4570cb26b3bbf0baf0ea08b38741b3570eba447fe67c75c9936bf243b06d",
+  "notes": "Menu lateral como Driver Booster (carril de iconos). Botones separados: Bloquear (volver al acceso) y Cerrar (salir de la app)."
 }

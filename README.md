@@ -2,12 +2,13 @@
 
 Descargas de **Fisterra**, centro de control de red para el router Sagemcom F@st 5366SM y NAS Synology.
 
-**Descargar la última versión:** [Fisterra 0.15](https://github.com/locometopa/fisterra-versiones/raw/main/0.15/Fisterra.exe)
+**Descargar la última versión:** [Fisterra 0.16](https://github.com/locometopa/fisterra-versiones/raw/main/0.16/Fisterra.exe)
 
 Desde la 0.4, Fisterra se actualiza solo al abrirse (consulta `latest.json`). Se puede desactivar en *Ajustes*.
 
 | Versión | Cambios |
 |---|---|
+| [0.16](0.16/Fisterra.exe) | Menú lateral como Driver Booster (carril de iconos). Botones separados: «Bloquear» y «Cerrar». |
 | [0.15](0.15/Fisterra.exe) | Reinicio de la actualización arreglado: renombra el .exe en marcha y relanza reintentando el puerto; la ventana se recarga sola. Ya no se queda en «reiniciando». |
 | [0.14](0.14/Fisterra.exe) | Nuevo aspecto estilo Driver Booster: negro con acento rojo, botones redondeados y cabecera de estado en Inicio. |
 | [0.13](0.13/Fisterra.exe) | **Mapa de red**: lista los dispositivos conectados (nombre, IP, MAC, fabricante), avisa de equipos nuevos y reserva IP de un clic. **Chequeo de seguridad**: revisa contraseña, UPnP, puertos sensibles expuestos y CGNAT. |
