@@ -1,6 +1,6 @@
 {
-  "version": "0.20.0",
-  "url": "https://github.com/locometopa/fisterra-versiones/raw/main/0.20/Fisterra.exe",
-  "sha256": "5ca59c806e1e4cc2a1189d1477d0d8daae3ee56e487afc3cd6b50f7c99a53d4a",
-  "notes": "Cajas que ya no se pisan: las rejillas se reorganizan solas segun el ancho (util con escalado de Windows). Menu reagrupado (Seguridad en RED, nuevo grupo Conectividad)."
+  "version": "0.21.0",
+  "url": "https://github.com/locometopa/fisterra-versiones/raw/main/0.21/Fisterra.exe",
+  "sha256": "efaeea47bd741da479ccb146dee3a37566e28b82a2fc6b6720970d99fbe63035",
+  "notes": "Separaciones corregidas: las rejillas de tarjetas ahora dejan hueco con el bloque siguiente (Fibra e Inicio ya no se pegan)."
 }
